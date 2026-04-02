@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inventory Management System
 
 ## Project Overview
@@ -96,3 +97,6 @@ If you are running within a Windows environment, a shortcut method is available:
 1. Double-click the provided `start.bat` file in the root directory.
 2. The script will automatically trigger parallel execution spaces and launch both environments.
 3. Open `http://localhost:5173` to interact with the UI.
+=======
+# inventory-management
+>>>>>>> 9b4ec0c5172f6461f3aff9577b5fed80fd024b29
